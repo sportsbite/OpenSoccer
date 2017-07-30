@@ -1,3 +1,4 @@
+[![Vizsla](https://s3.amazonaws.com/svg.vizsla.io/0.svg)](http://vizsla.io/subscribe/sportsbite/OpenSoccer)
 # OpenSoccer
 
 Online Soccer Manager
